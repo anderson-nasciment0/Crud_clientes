@@ -1,2 +1,2 @@
-# Teste_crudT2S
-Projeto feito para o processo seletivo da T2S
+# Teste_crud
+Projeto feito com PHP
